@@ -1,7 +1,8 @@
+.ipynb_checkpoints
+
 rock
 rock/*
 /rock/
-
 
 paper
 paper/*
@@ -10,3 +11,7 @@ paper/*
 scissors
 scissors/*
 /scissors/
+
+kaggle-rps
+kaggle-rps/*
+/kaggle-rps/
